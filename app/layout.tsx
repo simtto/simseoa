@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "에듀캠퍼스 | 나만의 교육용 웹앱",
-  description: "누구나 쉽게 만들고 배우는 교육용 웹 서비스 뼈대 프로젝트입니다. 즉시 배포 가능하고 다양한 교육 기능을 추가할 수 있는 뼈대 코드입니다.",
+  title: "EduCampus Quiz | 교육용 퀴즈 도구",
+  description: "학생들이 직접 풀고 점수를 확인하는 교육용 퀴즈 앱입니다. 결과가 Supabase에 저장되어 교사가 확인할 수 있습니다.",
 };
 
 export default function RootLayout({
